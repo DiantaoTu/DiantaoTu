@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Language-Python-success)
 ![](https://img.shields.io/badge/Tool-VS%20Code-blue)
 ![](https://img.shields.io/badge/Tool-ROS-blue)
+
+## Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=3dv-casia&repo=PanoVLM)](https://github.com/3dv-casia/PanoVLM)
